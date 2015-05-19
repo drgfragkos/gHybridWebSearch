@@ -15,4 +15,6 @@ output-200.txt		Only the requests that returned status "200 OK" are kept
 output-ex404.txt	All the requests are kept that did not return a "404 Not Found"
 
 
+Download: $ git clone https://github.com/drgfragkos/gHybridWebSearch.git
+
 
