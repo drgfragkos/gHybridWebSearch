@@ -1,9 +1,9 @@
 #!/bin/bash
 
 ## gHybridWebSearch version 0.2 - Quick Hybrid Web Search for Old, Backup and Unreferenced ##
-## Files for Sensitive Information based on a custom dictionalry (c)gfragkos 2012          ##
+## Files for Sensitive Information based on a custom dictionary (c)gfragkos 2012           ##
 ## You may modify, reuse and distribute the code freely as long as it is referenced back   ##
-## to the author using the following line: ..based on gHybridWebSearch by @drgfragkos      ##
+## to the author using the following line: ..based on gHybridWebSearch.sh by @drgfragkos   ##
 
 if [ "$1" == "" ]; then
 echo -ne "You need to pass a URL as an argument to work.\n  Usage: ./${0##*/} www.example.com\n"
