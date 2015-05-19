@@ -4,7 +4,7 @@ Quick Hybrid Web Search for Old, Backup and Unreferenced Files for Sensitive Inf
 gHybridWebSearch version 0.2 - Quick Hybrid Web Search for Old, Backup and Unreferenced
 Files for Sensitive Information based on a custom dictionary (c)gfragkos 2012
 You may modify, reuse and distribute the code freely as long as it is referenced back
-to the author using the following line: ..based on gHybridWebSearch by @drgfragkos
+to the author using the following line: ..based on gHybridWebSearch.sh by @drgfragkos
 
 usage: ./gHybridWebSearch [url]
    url*                     ./gHybridWebSearch www.example.com
