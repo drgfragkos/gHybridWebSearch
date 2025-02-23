@@ -18,7 +18,7 @@ import (
 /*
 ---------------------------------------------------------------------------------------
 gHybridWebSearch+ (Go version) - with Graceful Shutdown
-(c) Based on original gHybridWebSearch by @drgfragkos, updated by <YourName/YourHandle>.
+(c) Based on original gHybridWebSearch by @drgfragkos 2012, updated by @drgfragkos 2025.
 
 PURPOSE:
   - Quickly probe a target host for various files/paths (using a custom dictionary file).
